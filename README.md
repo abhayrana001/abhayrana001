@@ -1,3 +1,4 @@
+![logo](https://github.com/abhayrana001/abhayrana001/blob/main/Git%20banner.png)
 <h1 align="center">Hi 👋, I'm Abhay Rana</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/77a5dce7-1835-49e0-b47a-8b19f39fb984">
